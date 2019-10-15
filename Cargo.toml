@@ -1,11 +1,12 @@
 [package]
 name = "union_impl"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["olegnn <olegnosov1@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "Implementation of the union! macro."
 repository = "https://github.com/olegnn/union_impl"
+documentation = "https://docs.rs/union/0.0.1/union_impl"
 
 [lib]
 name = "union_impl"

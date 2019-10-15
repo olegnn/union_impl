@@ -43,7 +43,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "union_impl"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "proc-macro-hack 0.5.10 (registry+https://github.com/rust-lang/crates.io-index)",
  "proc-macro2 1.0.3 (registry+https://github.com/rust-lang/crates.io-index)",
